@@ -1,0 +1,9 @@
+# .gitignore for my isogram exercise from Exercism.io
+
+.exercism/
+.gradle/
+.idea/
+build/
+gradle/
+gradlew
+gradlew.bat
